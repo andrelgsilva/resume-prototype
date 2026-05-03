@@ -44,12 +44,18 @@
       "typedRoutes": true,
       "reactCompiler": true
     },
+    "owner": "andrelgsilva",
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "337d7f54-1028-479e-98b4-1cb392e51389"
+        "projectId": "86a3b6d1-96f0-4b80-91e1-1d3c2ebaf230"
       }
     },
-    "owner": "andrelgsilva"
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/86a3b6d1-96f0-4b80-91e1-1d3c2ebaf230"
+    }
   }
 }
